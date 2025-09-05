@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 .env
 
-# Windows/IDE
+# Windows / IDE
 Thumbs.db
 .DS_Store
 .vscode/
@@ -16,6 +16,37 @@ Thumbs.db
 *.bak
 *.tmp
 
-# Локальная сборка
+# Локальная сборка / Workshop
 workshop/**/preview.png
 workshop/**/build/
+
+# C# build
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Rider/VS cache
+*.rsuser
+*.sln.docstates
+
+# Unity Artifacts (если будешь юзать Unity Editor)
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# Не выгружаем дампы и переводы
+dumps/
+translations/
+
+# Игровые ассеты (чтобы случайно не закоммитить)
+TurretGirls_Data/
+*.assetbundle
+*.bundle

@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <OutputType>Library</OutputType>
+    <AssemblyName>TurretGirlsRus</AssemblyName>
+    <RootNamespace>TurretGirlsRus</RootNamespace>
+  </PropertyGroup>
+
+  <!-- Ссылки на библиотеки MelonLoader и Harmony -->
+  <ItemGroup>
+    <Reference Include="MelonLoader">
+      <HintPath>D:\Steam\steamapps\common\TurretGirls\MelonLoader\MelonLoader.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>D:\Steam\steamapps\common\TurretGirls\MelonLoader\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>D:\Steam\steamapps\common\TurretGirls\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>D:\Steam\steamapps\common\TurretGirls\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:\Steam\steamapps\common\TurretGirls\MelonLoader\Il2CppAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- Чтобы не копировались зависимости -->
+  <ItemGroup>
+    <None Update="*.dll">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- Копируем только готовую TurretGirlsRus.dll -->
+  <Target Name="PostBuild" AfterTargets="Build">
+    <Copy 
+      SourceFiles="$(TargetDir)TurretGirlsRus.dll" 
+      DestinationFolder="D:\Steam\steamapps\common\TurretGirls\Mods\TurretGirls_RU\" 
+      SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>
