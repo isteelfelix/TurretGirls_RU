@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -936316039139256140
+  },
+  "m_Name": "inventory_List_Bra",
+  "inventory": {
+    "Array": [
+      {
+        "item": {
+          "m_FileID": 122,
+          "m_PathID": -1043667900499847185
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 123,
+          "m_PathID": -9052808657307007937
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 124,
+          "m_PathID": 3083083207445828933
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 125,
+          "m_PathID": 3761936115609759463
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 126,
+          "m_PathID": -5357170061378394057
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 127,
+          "m_PathID": 1972870801522928222
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 128,
+          "m_PathID": -1461032430809436620
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 129,
+          "m_PathID": 418999928554423725
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 130,
+          "m_PathID": 4764847347787595058
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 131,
+          "m_PathID": 8683103597144075128
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 132,
+          "m_PathID": -5027023446449856432
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 133,
+          "m_PathID": -5793167235597193255
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 134,
+          "m_PathID": 1025327317269902841
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 135,
+          "m_PathID": 7465679179108955781
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 136,
+          "m_PathID": -409401560888215550
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 137,
+          "m_PathID": 9222897645811752167
+        },
+        "amount": 1
+      }
+    ]
+  }
+}

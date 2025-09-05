@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_KillCombo_02",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -5718771968888925435
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 1,
+  "emotion_Mouth": 12,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I'm unstoppable!",
+      "止まらないよ！",
+      "¡No puedes detenerme!",
+      "阻止不了我哟！",
+      "阻止不了我唷！",
+      "난 아무도 못 막아！"
+    ]
+  }
+}

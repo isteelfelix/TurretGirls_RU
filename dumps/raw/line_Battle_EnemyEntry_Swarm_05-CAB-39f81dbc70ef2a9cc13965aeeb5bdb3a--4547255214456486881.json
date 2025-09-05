@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_EnemyEntry_Swarm_05",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 7419347722831496932
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "There's no way I can fight that many!",
+      "その数は無理ぃぃ～～！！！",
+      "¡No puedo contra tantos!",
+      "这数量根本搞不定啊～～！！！",
+      "這數量根本搞不定啊～～！！！",
+      "저렇게 많은 숫자는 무리야！"
+    ]
+  }
+}

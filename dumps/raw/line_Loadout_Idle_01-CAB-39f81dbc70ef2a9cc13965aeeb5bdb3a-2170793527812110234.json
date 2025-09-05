@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Loadout_Idle_01",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -371116744915484039
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 1,
+  "emotion_Eyes": 5,
+  "emotion_Mouth": 5,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Hey... Don't you wanna play?",
+      "……ねぇ、何もしないの？",
+      "¿Quieres jugar?",
+      "……呐，什么也不做吗？",
+      "……吶，什麼也不做嗎？",
+      "저기... 놀고 싶지 않아？"
+    ]
+  }
+}

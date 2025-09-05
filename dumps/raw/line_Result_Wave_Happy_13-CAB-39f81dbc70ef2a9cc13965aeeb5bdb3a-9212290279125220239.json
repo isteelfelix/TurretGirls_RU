@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Happy_13",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 1,
+  "emotionTarget": 3,
+  "emotion_Eyes": 1,
+  "emotion_Mouth": 1,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Results this good deserve a sticker, right?",
+      "この戦果なら撃墜ステッカーを貼ってもいいでしょう",
+      "Esto merece un sticker, ¿no lo crees?",
+      "这战果贴个击坠贴纸也可以吧？",
+      "這戰果貼個擊墜貼紙也可以吧？",
+      "이 정도 전과면 스티커 하나 붙여도 되지？"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Shy_07",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 10,
+  "emotionTarget": 3,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 10,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I think the belts are showing the shape of my body more...",
+      "ベルトが食い込んで形が見えちゃうのがなあ……",
+      "Estos cintos acentúan mi figura...",
+      "不过肩带勒得有点紧导致胸形都被看到了……",
+      "不過肩帶勒得有點緊導致胸形都被看到了……",
+      "벨트 때문에 몸매가 더 드러나는 것 같기도 하고..."
+    ]
+  }
+}

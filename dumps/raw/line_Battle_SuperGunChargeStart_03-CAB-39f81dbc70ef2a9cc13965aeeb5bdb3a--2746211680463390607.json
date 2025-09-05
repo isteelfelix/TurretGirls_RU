@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_SuperGunChargeStart_03",
+  "priority": 3,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -4955125549963489160
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 5,
+  "emotion_Mouth": 1,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Okay, supergun! Your turn!",
+      "さあ！　超兵器の出番だぞ！！！",
+      "Bien, Súper-arma. ¡Tú turno!",
+      "来吧！是超级兵器的登场时间了！！！",
+      "來吧！是超級兵器的登場時間了！！！",
+      "자, 결전 병기！ 네 차례야！"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fear_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 3,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "That hunk of junk's staring at my butt, too?!",
+      "ポンコツにお尻も監視されちゃってる！？",
+      "¡¿Ese pedazo de basura me está mirando el trasero?!",
+      "傻逼废物连我的屁股都一并监视中！？",
+      "白痴廢物連我的屁股都一併監視中！？",
+      "저 고물이 내 엉덩이도 쳐다보는 거야？！"
+    ]
+  }
+}

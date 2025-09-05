@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_Start_Pinch_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 2,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 997416301405048057
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 2,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I will survive!",
+      "絶対に生き残る！",
+      "¡Sobreviviré!",
+      "一定要活下来！",
+      "一定要活下來！",
+      "반드시 살아남을 거야！"
+    ]
+  }
+}

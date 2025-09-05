@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Sad_13",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 3,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I don't get why I can't hum if nobody's around...",
+      "誰もいないんだし鼻歌ぐらいいいと思うんだけどなあ……",
+      "No entiendo por qué no puedo cantar si no hay nadie...",
+      "这里没有人，我觉得哼个歌也可以吧……",
+      "這裡沒有人，我覺得哼個歌也可以吧……",
+      "아무도 없는데 콧노래는 왜 안 되는 건지..."
+    ]
+  }
+}

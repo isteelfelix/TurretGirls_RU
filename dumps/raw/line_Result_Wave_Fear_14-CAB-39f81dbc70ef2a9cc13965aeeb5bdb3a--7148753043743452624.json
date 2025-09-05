@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fear_14",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 3,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Poor maneuvering probably weakens the turret's performance.",
+      "もしかして下手な操縦するとタレット性能って弱くなるんじゃ……",
+      "Una mala estategia debilitará el rendimiento de la torreta.",
+      "难道操控不当会让炮塔性能变弱吗……",
+      "難道操控不當會讓炮塔性能變弱嗎……",
+      "조작이 서툴면 포탑 성능도 약해지겠지."
+    ]
+  }
+}

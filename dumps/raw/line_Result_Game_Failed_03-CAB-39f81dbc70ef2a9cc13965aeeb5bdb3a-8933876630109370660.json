@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Failed_03",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 8659219922726179348
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 2,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "But...I can keep fighting...",
+      "自分はまだ……戦えるのに……",
+      "Aún puedo seguir luchando...",
+      "我明明还可以……继续战斗的呢……",
+      "我明明還能……繼續戰鬥的呢……",
+      "하지만... 아직 싸울 수 있는데..."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fear_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 8257330483616920286
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 3,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "You can't have omurice without ketchup...",
+      "ケチャップの無いオムライスはあり得ない……",
+      "No puedes comer omurice sin cátsup...",
+      "没有浇番茄酱的蛋包饭是不可能存在的……",
+      "沒有澆番茄醬的蛋包飯是不可能存在的……",
+      "케첩 없는 오므라이스는 있을 수 없어..."
+    ]
+  }
+}

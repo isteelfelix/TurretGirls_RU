@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Happy_08",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 1,
+  "emotionTarget": 3,
+  "emotion_Eyes": 1,
+  "emotion_Mouth": 1,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I haven't had enough yet. Let's keep fighting!",
+      "まだまだ、撃ち足りないんだけどなー",
+      "Aún no es suficiente, ¡sigamos luchando!",
+      "还是有点射得不够过瘾呢～",
+      "還是有點射得不夠過癮呢～",
+      "아직 부족한데？ 더 싸우자！"
+    ]
+  }
+}

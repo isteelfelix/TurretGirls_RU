@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Dismayed_14",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 7,
+  "emotionTarget": 3,
+  "emotion_Eyes": 7,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "You should listen before you ban people from singing...",
+      "歌声聴きもしないで禁止ってさあ……",
+      "Deberían escuchar antes de prohibir que la gente cante...",
+      "不听我的歌声就禁止唱了，这也太过分了吧……",
+      "不聽我的歌聲就禁止唱了，這也太過分了吧……",
+      "내 노래를 들어보지도 않고 금지하다니..."
+    ]
+  }
+}

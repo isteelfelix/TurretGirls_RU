@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_Start_Normal_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 2,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 3384041578271713882
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 2,
+  "emotion_Eyes": 5,
+  "emotion_Mouth": 5,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "There's no way I'll lose!",
+      "負けるわけにはいかない！",
+      "¡No hay manera de que pierda!",
+      "绝对不会输啊！",
+      "絕對不會輸啊！",
+      "내가 질 리 없지！"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Shy_08",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 10,
+  "emotionTarget": 3,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 10,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "The recoil really makes them jiggle, huh?",
+      "射撃の反動でプルプルするんだよね……",
+      "El movimiento si que las hace rebotar.",
+      "射击的反作用力让我的身体有点颤抖呢……",
+      "射擊的反作用力讓我身體有點顫抖呢……",
+      "반동 때문에 엄청 흔들리네."
+    ]
+  }
+}

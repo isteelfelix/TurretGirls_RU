@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Angry_14",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 2,
+  "emotionTarget": 3,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 2,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Mother Computer? More like Grandmother Computer!",
+      "マザーコンピューターじゃなくてポンコツって呼んでやる！",
+      "¿Computadora Madre?... ¡Más bien Anciana!",
+      "我才不叫那做母电脑，叫它傻逼废物吧！",
+      "我才不叫那做母電腦，叫它愚蠢廢物吧！",
+      "마더 컴퓨터？ 할머니 컴퓨터가 더 어울리겠네！"
+    ]
+  }
+}

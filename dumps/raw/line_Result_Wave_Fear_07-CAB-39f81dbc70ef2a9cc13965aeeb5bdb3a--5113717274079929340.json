@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fear_07",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 3,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I can't let the generators break...",
+      "ジェネレーターが壊されたら大変だ…",
+      "No puedo dejar que destruyan los generadores...",
+      "如果发电机坏掉就麻烦了……",
+      "如果發電機壞掉就麻煩了……",
+      "발전기가 망가지면 큰일이야..."
+    ]
+  }
+}

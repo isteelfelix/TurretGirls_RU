@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Loadout_Touch_05",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 3414115030757986776
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 1,
+  "emotion_Eyes": 12,
+  "emotion_Mouth": 12,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "My measurements? That's a secret ♪",
+      "スリーサイズはね……内緒だよ♪",
+      "¿Mis medidas? Son un secreto♪",
+      "三围呢……是秘密哟♪",
+      "三圍呢……是秘密唷♪",
+      "쓰리 사이즈？ 그건 비밀이야 ♪"
+    ]
+  }
+}

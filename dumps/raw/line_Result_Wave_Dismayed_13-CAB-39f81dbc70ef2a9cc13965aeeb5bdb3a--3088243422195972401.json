@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Dismayed_13",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 7,
+  "emotionTarget": 3,
+  "emotion_Eyes": 7,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "Does Mother Computer do anything besides watch?!",
+      "マザーコンピューターって見てるだけで何もしないの！？",
+      "¡¿Acaso lo único que hace la Computadora Madre es mirar?!",
+      "母电脑只是看着什么都不做吗！？",
+      "母電腦只是看著什麼都不做嗎！？",
+      "마더 컴퓨터는 구경만 하는 거야？！"
+    ]
+  }
+}

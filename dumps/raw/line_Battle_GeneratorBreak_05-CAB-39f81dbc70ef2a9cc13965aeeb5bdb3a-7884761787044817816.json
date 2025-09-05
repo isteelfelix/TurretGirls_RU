@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_GeneratorBreak_05",
+  "priority": 5,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -710142881725574592
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 9,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Nooo, the generator!",
+      "ジェネーターがぁぁぁ～",
+      "¡Nooo! ¡El generador!",
+      "发电机啊啊啊～",
+      "發電機啊啊啊～",
+      "안 돼, 발전기가！"
+    ]
+  }
+}

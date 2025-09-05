@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_GeneratorBreakAll_03",
+  "priority": 0,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -2717130513467067515
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 12,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "But it's my job to protect them...",
+      "守り切らなきゃ……いけなかったのに……",
+      "Yo debía protegerlos...",
+      "本来应该……要守住的……",
+      "本來應該……要守住的……",
+      "내가 지켜야 하는데..."
+    ]
+  }
+}

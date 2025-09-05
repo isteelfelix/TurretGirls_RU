@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fun_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 4,
+  "emotionTarget": 3,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Is the way the belt sits across my chest distracting?",
+      "このパイスラで全人類を魅了してやる！",
+      "¿Te distrae el cinto que cruza por mis pechos?",
+      "我要用这个袋子大力强调胸部及乳沟魅惑全人类！",
+      "我要用這個袋子大力強調胸部及乳溝魅惑全人類！",
+      "허리띠가 가슴 위로 지나가서 좀 신경 쓰여？"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_EnemyEntry_MidBoss_05",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -3518215283925894084
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 12,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Why'd nobody tell me about this?",
+      "あんなの聞いてないんだけど……",
+      "No sabía que existía algo así...",
+      "我可没听说过这种事……",
+      "我可沒聽說過這種事……",
+      "저런 게 있다는 얘기는 못 들었다고！"
+    ]
+  }
+}

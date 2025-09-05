@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_GeneralVoice_Embarrassed_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 0,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 4971242302883298571
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 0,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": []
+  }
+}

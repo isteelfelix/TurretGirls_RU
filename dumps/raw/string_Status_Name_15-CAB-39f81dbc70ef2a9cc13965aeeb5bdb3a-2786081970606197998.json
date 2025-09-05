@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4779552609076990591
+  },
+  "m_Name": "string_Status_Name_15",
+  "memo": "ステータスの名前_ジェネレータ_出力",
+  "strings": {
+    "Array": [
+      "Output",
+      "出力",
+      "Potencia",
+      "输出功率",
+      "輸出功率",
+      "출력"
+    ]
+  }
+}

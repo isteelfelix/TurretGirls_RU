@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_CloseAttackKill_03",
+  "priority": 10,
+  "booking": 0,
+  "probability": 15,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 3776582955283011422
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Flash, and it's all over!",
+      "一閃！",
+      "¡Destello!",
+      "一闪！",
+      "一閃！",
+      "순식간에 해치웠어！"
+    ]
+  }
+}

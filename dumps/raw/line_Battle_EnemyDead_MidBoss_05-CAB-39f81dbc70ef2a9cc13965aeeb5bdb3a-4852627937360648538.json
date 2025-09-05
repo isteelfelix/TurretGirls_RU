@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_EnemyDead_MidBoss_05",
+  "priority": 10,
+  "booking": 0,
+  "probability": 50,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -1255641885242550265
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 9,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Target destroyed!",
+      "目標撃破っ！！",
+      "¡Objetivo destruido!",
+      "击杀目标！！  ",
+      "擊殺目標！！  ",
+      "목표 격파！"
+    ]
+  }
+}

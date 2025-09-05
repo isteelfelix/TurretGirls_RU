@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fun_09",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 4,
+  "emotionTarget": 3,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Maybe I should give the turret another sticker?",
+      "タレットちゃんにステッカー貼っちゃおうかな♪",
+      "Quizás la torreta se merece otro sticker.",
+      "我想在炮塔酱上贴贴纸呢♪",
+      "我想在炮塔醬上貼貼紙呢♪",
+      "포탑에 스티커 하나 더 붙일까？"
+    ]
+  }
+}

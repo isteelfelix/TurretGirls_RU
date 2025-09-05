@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Loadout_Touch_01",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 8037226039666475172
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 1,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Let's do that later ♪",
+      "あとで～♪",
+      "Hagámoslo más tarde ♪",
+      "之后再做～♪",
+      "之後再做～♪",
+      "그건 나중에 하자 ♪"
+    ]
+  }
+}

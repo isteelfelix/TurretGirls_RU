@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Sad_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 3,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "This'd be enough money if it were just for me...",
+      "この報酬が自分のものだったらな……",
+      "Esto sería suficiente dinero si fuera sólo para mí...",
+      "如果这报酬金是我的就好了……",
+      "如果這報酬金是我的就好了……",
+      "이 돈이 다 내 거였으면 충분했을 텐데..."
+    ]
+  }
+}

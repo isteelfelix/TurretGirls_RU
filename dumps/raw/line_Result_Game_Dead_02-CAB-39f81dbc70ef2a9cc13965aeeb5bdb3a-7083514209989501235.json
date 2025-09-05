@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Dead_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 5233799914868168390
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 2,
+  "emotion_Eyes": 12,
+  "emotion_Mouth": 2,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "I can't go out...like this...",
+      "こんな……みじめな姿に……",
+      "Esto no puede acabar así...",
+      "变成这种……羞耻的模样……",
+      "變成這種……羞恥的模樣……",
+      "이렇게... 쓰러질 순... 없어..."
+    ]
+  }
+}

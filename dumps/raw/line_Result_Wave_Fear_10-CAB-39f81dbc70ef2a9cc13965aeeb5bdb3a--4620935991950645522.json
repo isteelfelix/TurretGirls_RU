@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fear_10",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 3,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I worry we're not strong enough to defend ourselves...",
+      "今の戦力で守り切れるか心配だな……",
+      "Me temo que aún no somos lo suficientemente fuertes...",
+      "我担心现在的战力能否守到最后……",
+      "我擔心現在的戰力能否守到最後……",
+      "지금 전력으로 방어할 수 있을지 걱정이야..."
+    ]
+  }
+}

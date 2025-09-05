@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Sad_08",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 3,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Can I transfer to a different department?",
+      "別部署に移動できないかな……",
+      "¿Es muy tarde para cambiar de departamento?",
+      "能不能调我到别的部门去啊……",
+      "能不能調我到別的部門去啊……",
+      "다른 부서로 옮길 수는 없나？"
+    ]
+  }
+}

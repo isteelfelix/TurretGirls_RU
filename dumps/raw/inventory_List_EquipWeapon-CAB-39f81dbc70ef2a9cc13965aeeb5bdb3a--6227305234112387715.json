@@ -1,0 +1,184 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -936316039139256140
+  },
+  "m_Name": "inventory_List_EquipWeapon",
+  "inventory": {
+    "Array": [
+      {
+        "item": {
+          "m_FileID": 98,
+          "m_PathID": -1352139368208667111
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 99,
+          "m_PathID": 3479262151987726507
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 100,
+          "m_PathID": 8207852241596728628
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 101,
+          "m_PathID": 708093040556481510
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 102,
+          "m_PathID": -6677763061217345541
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 103,
+          "m_PathID": 2194712553853508276
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 104,
+          "m_PathID": 3666536446957931509
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 105,
+          "m_PathID": 3428588793769549878
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 106,
+          "m_PathID": 442414806069365347
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 107,
+          "m_PathID": 6371228661418829856
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 108,
+          "m_PathID": -6855133877758416815
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 109,
+          "m_PathID": 1378269847739731713
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 110,
+          "m_PathID": 4094187724613757154
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 111,
+          "m_PathID": -8788958736602347315
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 112,
+          "m_PathID": -2255295468776360470
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 113,
+          "m_PathID": 4589409367671976993
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 114,
+          "m_PathID": -5801633492101489463
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 115,
+          "m_PathID": 8909530989978416128
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 116,
+          "m_PathID": -8840786290360734631
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 117,
+          "m_PathID": 3048352877500539844
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 118,
+          "m_PathID": 7902459467798232145
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 119,
+          "m_PathID": -5909146706191963237
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 120,
+          "m_PathID": 8431998773822285285
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 121,
+          "m_PathID": -2361067951723553350
+        },
+        "amount": 1
+      }
+    ]
+  }
+}

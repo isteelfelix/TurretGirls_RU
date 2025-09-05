@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Shy_03",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 10,
+  "emotionTarget": 3,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 10,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Today's battle data will improve the turret again.",
+      "今日の戦闘データでまたタレットが成長しちゃうな",
+      "Los datos durante la batalla serán de gran ayuda.",
+      "今天的战斗数据又让炮塔成长了呢",
+      "今天的戰鬥數據又讓炮塔成長了呢",
+      "오늘 전투 데이터로 포탑이 더욱 강해질 거야."
+    ]
+  }
+}

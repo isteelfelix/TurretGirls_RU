@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_08",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "These clothes are cute but their durability is questionable.",
+      "この服、デザインはいいけど耐久性が問題だよね……",
+      "Esta ropa es bonita, pero su durabilidad es cuestionable.",
+      "这件衣服，设计不错但耐用性有问题呢……",
+      "這件衣服，設計不錯但耐用性有問題呢……",
+      "이 옷 귀엽긴 한데 내구성이 좀 걱정돼."
+    ]
+  }
+}

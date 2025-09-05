@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -936316039139256140
+  },
+  "m_Name": "inventory_List_Consumable",
+  "inventory": {
+    "Array": [
+      {
+        "item": {
+          "m_FileID": 265,
+          "m_PathID": 2006175023204126644
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 266,
+          "m_PathID": 7983170563480866192
+        },
+        "amount": 1
+      }
+    ]
+  }
+}

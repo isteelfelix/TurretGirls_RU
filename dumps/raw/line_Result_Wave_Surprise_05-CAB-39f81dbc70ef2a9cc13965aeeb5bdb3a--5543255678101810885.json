@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Surprise_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 6,
+  "emotionTarget": 3,
+  "emotion_Eyes": 6,
+  "emotion_Mouth": 6,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Did my predecessor like ketchup too?",
+      "前任者もケチャップ好きだったのかな？",
+      "¿A quien estaba antes de mí le gustaba la cátsup?",
+      "前任者也喜欢番茄酱吗？",
+      "前任者也喜歡番茄醬嗎？",
+      "전임자도 케첩을 좋아했을까？"
+    ]
+  }
+}

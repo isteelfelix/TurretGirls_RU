@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fun_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 4,
+  "emotionTarget": 3,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "What should I draw on my omurice tonight?",
+      "夕飯のオムライスには、何を描こうかな～♪",
+      "¿Qué debería dibujarle a mi omurice?",
+      "晚餐的蛋包饭上，要画什么好呢～♪",
+      "晚餐的蛋包飯上，要畫什麼好呢～♪",
+      "오늘 저녁 오므라이스에는 뭘 그릴까？"
+    ]
+  }
+}

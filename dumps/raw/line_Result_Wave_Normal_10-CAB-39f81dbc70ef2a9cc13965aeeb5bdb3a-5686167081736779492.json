@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Normal_10",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 0,
+  "emotion_Mouth": 0,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "There's nothing quite like a massage after a hard day!",
+      "労働の後はマッサージだよね♪",
+      "No hay nada mejor que un masaje después de un día tan duro.",
+      "劳动之后就是按摩时间了呢♪",
+      "勞動之後就是按摩時間了呢♪",
+      "고된 하루를 마친 후에는 마사지가 최고야！"
+    ]
+  }
+}

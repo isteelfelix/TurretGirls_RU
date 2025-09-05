@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_10",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I'm not being watched while I shower, right...?",
+      "まさかシャワー中は監視されてないよね……",
+      "No me estarán viendo cuando me estoy duchando, ¿verdad?",
+      "难道说在洗澡的时候也会被监视吗……",
+      "難道說在洗澡的時候也會被監視嗎……",
+      "샤워할 때까지 감시하는 건 아니겠지...？"
+    ]
+  }
+}

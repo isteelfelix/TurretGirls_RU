@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_GeneratorLastOne_01",
+  "priority": 4,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 5200360408827540570
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 10,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "There's only one left!",
+      "あと一つになっちゃったぁ！！",
+      "¡Sólo queda uno!",
+      "只剩下一个了啊！！",
+      "只剩下一個了啊！！",
+      "이제 하나만 남았어！"
+    ]
+  }
+}

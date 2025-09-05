@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Dead_03",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -3815511667615867304
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 2,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 13,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "Please... Forgive me...",
+      "お願い……もう許して……",
+      "Por favor... Perdónenme...",
+      "拜托了……请饶了我吧……",
+      "拜託了……請饒了我吧……",
+      "제발... 용서해 줘..."
+    ]
+  }
+}

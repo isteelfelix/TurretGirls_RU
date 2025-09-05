@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Worry_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 9,
+  "emotionTarget": 3,
+  "emotion_Eyes": 9,
+  "emotion_Mouth": 9,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I'd love to ride something besides a turret sometime.",
+      "たまにはタレット以外のものに乗りたいな",
+      "Me encantaría montar algo más que una torreta...",
+      "偶尔也想骑一下炮塔以外的东西呢",
+      "偶爾也想騎一下炮塔以外的東西呢",
+      "가끔은 포탑 말고 다른 것도 타보고 싶어."
+    ]
+  }
+}

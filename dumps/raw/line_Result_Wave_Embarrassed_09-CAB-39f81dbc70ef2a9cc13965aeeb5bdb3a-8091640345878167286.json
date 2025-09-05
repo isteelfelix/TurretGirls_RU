@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_09",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "How much is the surveillance footage showing of me?",
+      "監視の映像ってどこまで映ってるの？",
+      "¿Qué tanto graban de mí las cámaras de vigilancia?",
+      "监视影像到底会拍到什么程度呢？",
+      "監視影像到底會拍到什麼程度呢？",
+      "감시 카메라에 어디까지 찍히는 걸까？"
+    ]
+  }
+}

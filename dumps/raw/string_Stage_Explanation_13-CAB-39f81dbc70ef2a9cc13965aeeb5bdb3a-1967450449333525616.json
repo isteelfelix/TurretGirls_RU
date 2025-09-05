@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4779552609076990591
+  },
+  "m_Name": "string_Stage_Explanation_13",
+  "memo": "ステージ3（無限）の説明",
+  "strings": {
+    "Array": [
+      "Abandoned City (Endless)",
+      "廃都市（無限）",
+      "Ciudad abandonada (infinito)",
+      "被废弃的城市（无限）",
+      "被廢棄的城市（無限）",
+      "버려진 도시（무한）"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Loadout_Touch_06",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 2534685528987995386
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 1,
+  "emotion_Eyes": 1,
+  "emotion_Mouth": 10,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Hope and boobs go together!",
+      "おっぱいには、夢とロマンが詰まっているのですよ♪",
+      "Mis pechos son hechos de amor♪",
+      "欧派里面呢，藏着梦想和浪漫哟♪",
+      "歐派裡面呢，藏著夢想和浪漫唷♪",
+      "가슴에는 꿈과 낭만이 담겨 있다고！"
+    ]
+  }
+}

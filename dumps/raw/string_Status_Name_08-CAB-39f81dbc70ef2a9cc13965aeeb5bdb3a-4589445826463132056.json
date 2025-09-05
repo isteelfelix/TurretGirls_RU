@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4779552609076990591
+  },
+  "m_Name": "string_Status_Name_08",
+  "memo": "ステータスの名前_武器_対青色敵特効",
+  "strings": {
+    "Array": [
+      "Anti-Blue Enemy",
+      "対青色敵特効",
+      "Anti-Enemigo azul",
+      "对蓝色敌人特效率",
+      "對藍色敵人特效率",
+      "파란색 적 대응력"
+    ]
+  }
+}

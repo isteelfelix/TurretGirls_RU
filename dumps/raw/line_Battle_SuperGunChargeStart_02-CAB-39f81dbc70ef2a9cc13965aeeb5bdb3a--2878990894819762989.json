@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_SuperGunChargeStart_02",
+  "priority": 3,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 2196434158638669705
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 1,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I'm counting on you, supergun!",
+      "超兵器ちゃん！　頼んだよ～！",
+      "¡Cuento contigo Súper-arma!",
+      "超级兵器酱！拜托了哟～！",
+      "超級兵器醬！拜託了唷～！",
+      "너만 믿을게, 결전 병기！"
+    ]
+  }
+}

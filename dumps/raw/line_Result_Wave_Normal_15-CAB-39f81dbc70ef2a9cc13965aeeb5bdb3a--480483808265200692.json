@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Normal_15",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 0,
+  "emotion_Mouth": 0,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I think I've gotten better at watching the generators.",
+      "ジェネレーターにも気配りが出来るようになったかな♪",
+      "Creo que he cuidado mejor los generadores.",
+      "我是不是也应该对发电机多一点关心呢♪",
+      "我是不是也應該對發電機多一點關心呢♪",
+      "발전기에 더 신경을 쓸 수 있게 된 것 같아."
+    ]
+  }
+}

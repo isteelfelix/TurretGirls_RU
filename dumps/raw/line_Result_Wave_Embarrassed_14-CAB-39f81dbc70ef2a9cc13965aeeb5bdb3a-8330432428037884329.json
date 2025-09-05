@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_14",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Oh, how'd I get ketchup there?",
+      "変なところにケチャップが付いちゃった……",
+      "¡Oh! ¿Cómo llego la cátsup hasta ahí?",
+      "不小心在奇怪的地方沾到番茄酱了……",
+      "不小心在奇怪的地方沾到番茄醬了……",
+      "어라？ 어쩌다 여기 케첩이 묻었지？"
+    ]
+  }
+}

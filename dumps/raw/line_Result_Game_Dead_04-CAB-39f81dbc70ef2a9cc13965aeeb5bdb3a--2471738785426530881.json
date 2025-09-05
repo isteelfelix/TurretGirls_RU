@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Dead_04",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 4511533450690832971
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 2,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "I can't let them have their way...",
+      "こんなやつらに……好きにされるなんて……",
+      "No pueden salirse con la suya...",
+      "被这种人家伙……随意蹂躏……",
+      "被這種人傢伙……隨意蹂躪……",
+      "마음대로 하게 둘 수는 없는데..."
+    ]
+  }
+}

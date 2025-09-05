@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Dismayed_01",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 7,
+  "emotionTarget": 3,
+  "emotion_Eyes": 7,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "Is there anyone that could swap shifts?",
+      "シフトを変わってくれる人はいないものか……",
+      "¿Hay alguien que quiera cambiar turno conmigo?",
+      "有人願意幫我換個班嗎……",
+      "有人愿意帮我换个班吗……",
+      "근무 교대해 줄 사람 없어？"
+    ]
+  }
+}

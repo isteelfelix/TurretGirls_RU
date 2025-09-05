@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Shop_End_03",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 1887132438274045401
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 2,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Let's kick ass tomorrow!",
+      "明日も頑張るぞ！",
+      "¡Pateemos traseros mañana!",
+      "明天也要加油哦！",
+      "明天也要加油喔！",
+      "내일 제대로 보여주자！"
+    ]
+  }
+}

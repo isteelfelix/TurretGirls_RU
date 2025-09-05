@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -936316039139256140
+  },
+  "m_Name": "inventory_List_Turret",
+  "inventory": {
+    "Array": [
+      {
+        "item": {
+          "m_FileID": 272,
+          "m_PathID": -7951556964069422427
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 273,
+          "m_PathID": -4845458489407482118
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 274,
+          "m_PathID": 5942434871127178767
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 275,
+          "m_PathID": 379689068571783904
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 276,
+          "m_PathID": -8238988913472682412
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 277,
+          "m_PathID": 7630642634016578875
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 278,
+          "m_PathID": 8356530574715059193
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 279,
+          "m_PathID": -4053000801241985559
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 280,
+          "m_PathID": -1286334653588389032
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 281,
+          "m_PathID": -6034450446062957902
+        },
+        "amount": 1
+      }
+    ]
+  }
+}

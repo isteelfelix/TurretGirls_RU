@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fun_04",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 4,
+  "emotionTarget": 3,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "The tomatoes in ketchup should be sweet and less acidic!",
+      "ケチャップは、甘みが多く酸味が少ないトマトを使うべし！",
+      "¡El tomate en la cátsup debería ser más dulce y no ácido!",
+      "番茄酱，要用甜味多酸味少的番茄呢！",
+      "番茄醬，要用甜味多酸味少的番茄呢！",
+      "케첩에는 달달하고 산미가 적은 토마토를 써야 해！"
+    ]
+  }
+}

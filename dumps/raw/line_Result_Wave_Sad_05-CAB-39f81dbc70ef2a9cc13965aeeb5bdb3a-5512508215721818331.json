@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Sad_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 3,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "My body craves omurice...",
+      "身体がオムライスを求めている……",
+      "Me muero por un omurice...",
+      "身体在渴求蛋包饭……",
+      "身體在渴求蛋包飯……",
+      "몸이 오므라이스를 원하고 있어..."
+    ]
+  }
+}

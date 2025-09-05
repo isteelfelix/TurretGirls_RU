@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Sad_10",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 3,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 3,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I went too hard, today. I'm so hungry...",
+      "動き過ぎてお腹がペコペコだよ……",
+      "Trabajé muy duro hoy, tengo mucha hambre...",
+      "动得太多肚子饿到不断响了……",
+      "動得太多肚子餓到不斷響了……",
+      "오늘 너무 열심히 했나 봐. 완전 배고파..."
+    ]
+  }
+}

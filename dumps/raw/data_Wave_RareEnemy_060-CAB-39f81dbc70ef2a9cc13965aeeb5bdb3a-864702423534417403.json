@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 1388133893985742740
+  },
+  "m_Name": "data_Wave_RareEnemy_060",
+  "enemyWaveDatas": {
+    "Array": [
+      {
+        "description": "空中レアR",
+        "scriptable_EnemyUnit": {
+          "m_FileID": 407,
+          "m_PathID": 2572233486973652480
+        },
+        "entryPosition": {
+          "x": 170.0,
+          "y": 45.0,
+          "z": 50.0
+        },
+        "entryRange": {
+          "x": 0.0,
+          "y": 5.0,
+          "z": 10.0
+        },
+        "entryTime": 17.0,
+        "entryRepeatNumbur": 1.0,
+        "entryInterval": 1.0,
+        "nestType": 0
+      },
+      {
+        "description": "空中レアL",
+        "scriptable_EnemyUnit": {
+          "m_FileID": 407,
+          "m_PathID": 2572233486973652480
+        },
+        "entryPosition": {
+          "x": -170.0,
+          "y": 40.0,
+          "z": 60.0
+        },
+        "entryRange": {
+          "x": 0.0,
+          "y": 5.0,
+          "z": 5.0
+        },
+        "entryTime": 35.0,
+        "entryRepeatNumbur": 1.0,
+        "entryInterval": 1.0,
+        "nestType": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Normal_11",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 0,
+  "emotion_Mouth": 0,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I think I'm getting better at piloting the turret!",
+      "タレットの操縦もうまくなってきたと思うんだ！",
+      "¡Creo que cada vez soy mejor en esto!",
+      "我觉得自己操作炮塔的技术也变好了！",
+      "我覺得自己操作炮塔的技術也變好了！",
+      "포탑 조종에 점점 능숙해지는 것 같아！"
+    ]
+  }
+}

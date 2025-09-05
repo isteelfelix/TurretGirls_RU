@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -936316039139256140
+  },
+  "m_Name": "inventory_List_Boost",
+  "inventory": {
+    "Array": [
+      {
+        "item": {
+          "m_FileID": 268,
+          "m_PathID": 236384376926087814
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 269,
+          "m_PathID": -6477205903816240136
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 270,
+          "m_PathID": 7047743625665369614
+        },
+        "amount": 1
+      },
+      {
+        "item": {
+          "m_FileID": 271,
+          "m_PathID": -319439800509838116
+        },
+        "amount": 1
+      }
+    ]
+  }
+}

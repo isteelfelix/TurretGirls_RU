@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_GeneratorLastOne_03",
+  "priority": 4,
+  "booking": 1,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 8855823202672320283
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 9,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I've gotta protect the last one!",
+      "最後のジェネレーター……守り切る！！",
+      "¡Protegeré el que queda!",
+      "最后的发电机……一定要守住！！",
+      "最後的發電機……一定要守住！！",
+      "마지막 발전기는 꼭 지켜야 해！"
+    ]
+  }
+}

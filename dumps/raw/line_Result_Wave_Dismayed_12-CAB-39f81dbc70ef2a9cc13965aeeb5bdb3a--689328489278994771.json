@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Dismayed_12",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 7,
+  "emotionTarget": 3,
+  "emotion_Eyes": 7,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "Just how much energy does a superweapon need?",
+      "超兵器のエネルギーってどれだけ必要なの？",
+      "¿Cuánta energía necesitará la Súper-arma?",
+      "超级兵器需要多少能量啊？",
+      "超級兵器需要多少能量啊？",
+      "결전 병기는 대체 얼마나 에너지가 필요한 거야？"
+    ]
+  }
+}

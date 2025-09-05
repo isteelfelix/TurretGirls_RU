@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Worry_12",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 9,
+  "emotionTarget": 3,
+  "emotion_Eyes": 9,
+  "emotion_Mouth": 9,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "It's not like I'm skipping training or anything...",
+      "特訓をサボってたわけじゃないんだけどな……",
+      "Jamás me saltaría mi entrenamiento...",
+      "我并不是在偷懒不去特训哦……",
+      "我並不是在偷懶不去特訓喔……",
+      "훈련을 빼먹거나 그러진 않았는데..."
+    ]
+  }
+}

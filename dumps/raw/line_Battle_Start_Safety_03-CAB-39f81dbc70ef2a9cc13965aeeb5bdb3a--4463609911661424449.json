@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_Start_Safety_03",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 2,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -6076407030197166686
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 2,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Let's get this over with ♪",
+      "さっさと終わらせるぞー♪",
+      "Acabemos con esto♪",
+      "马上就结束了呢～♪",
+      "馬上就結束了呢～♪",
+      "얼른 끝내 버리자 ♪"
+    ]
+  }
+}

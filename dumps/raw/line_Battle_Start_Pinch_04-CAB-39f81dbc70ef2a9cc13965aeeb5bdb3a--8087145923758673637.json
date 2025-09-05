@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_Start_Pinch_04",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 2,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -6827127286464903495
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 2,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 9,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I can still fight!",
+      "……まだ戦える！",
+      "¡Aún puedo pelear!",
+      "……我还能继续战斗！",
+      "……我還能繼續戰鬥！",
+      "아직 싸울 수 있어！"
+    ]
+  }
+}

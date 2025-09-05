@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_13",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Surveillance is for battle data, not pervy stuff...",
+      "監視ってエッチな目的じゃなくて戦闘データの収集だったのか……",
+      "Deberían vigilar los datos de batalla, ¡no a mí!",
+      "监视不是为了色情目的而是为了收集战斗数据吗……",
+      "監視不是為了色情目的而是為了收集戰鬥數據嗎……",
+      "감시는 야한 게 아니라 전투 데이터를 위한 거라고..."
+    ]
+  }
+}

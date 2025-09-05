@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Loadout_Touch_09",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -4563751781954584129
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 1,
+  "emotion_Eyes": 12,
+  "emotion_Mouth": 12,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Wanna do stuff behind the turret?",
+      "タレットの影に隠れて……イチャイチャする？",
+      "Hagamos cosas tras la torreta~",
+      "躲在炮塔的阴影里……亲热吗？",
+      "躲在炮塔的陰影裡……親熱嗎？",
+      "포탑 뒤에서 같이 놀래？"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Angry_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 2,
+  "emotionTarget": 3,
+  "emotion_Eyes": 2,
+  "emotion_Mouth": 2,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "If they were serious about this they'd hire more people...",
+      "本気で駆除するならワンオペはおかしいよね",
+      "Si se lo tomaran en serio, contratarían a más gente...",
+      "如果认真要驱逐的话，单人作业太奇怪吧",
+      "如果認真要驅逐的話，單人作業太奇怪吧",
+      "진심이라면 사람을 더 뽑아야지..."
+    ]
+  }
+}

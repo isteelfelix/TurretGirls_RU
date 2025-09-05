@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Dead_01",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 7585860216653882618
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 2,
+  "emotion_Eyes": 3,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "I...can't stand anymore...",
+      "もう……立てない……",
+      "Ya no puedo pararme...",
+      "我……再也站不起来了……",
+      "我……再也站不起來了……",
+      "더... 더는 못 버티겠어..."
+    ]
+  }
+}

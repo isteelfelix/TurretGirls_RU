@@ -1,0 +1,1819 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6739763051371235482
+  },
+  "m_Name": "data_Stage_01",
+  "id": 1,
+  "memo": "Stage 1",
+  "mapSceneFileName": "Scene_Map_01",
+  "mapVolumeFileName": "volumeProfile_Stage01",
+  "mapSkyboxFileName": "Skybox_Custom_Stage01",
+  "mapValueSetterFileName": "PropGlobalValueSetter_Stage01",
+  "infinity": 0,
+  "string_Name": {
+    "m_FileID": 0,
+    "m_PathID": 1319018294289065736
+  },
+  "string_Description": {
+    "m_FileID": 0,
+    "m_PathID": 5659803879800875109
+  },
+  "string_UnlockConditions": {
+    "m_FileID": 0,
+    "m_PathID": -3786237433549142562
+  },
+  "capacitorMax": 5000,
+  "enemyIncreaseStartDay": 16,
+  "enemyIncreaseRateAttack": 0.02,
+  "enemyIncreaseRateHp": 0.1,
+  "enemyIncreaseRate": {
+    "Array": [
+      {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 2.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 3.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 4.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 5.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 6.0,
+        "y": 0.0,
+        "z": 0.1
+      },
+      {
+        "x": 7.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 8.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 9.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 10.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      {
+        "x": 11.0,
+        "y": 0.1,
+        "z": 0.2
+      },
+      {
+        "x": 12.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 13.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 14.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 15.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 16.0,
+        "y": 0.1,
+        "z": 0.2
+      },
+      {
+        "x": 17.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 18.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 19.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 20.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 21.0,
+        "y": 0.1,
+        "z": 0.2
+      },
+      {
+        "x": 22.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 23.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 24.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 25.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 26.0,
+        "y": 0.1,
+        "z": 0.1
+      },
+      {
+        "x": 27.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 28.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 29.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 30.0,
+        "y": 0.01,
+        "z": 0.0
+      },
+      {
+        "x": 31.0,
+        "y": 0.1,
+        "z": 0.1
+      },
+      {
+        "x": 32.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 33.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 34.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 35.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 36.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 37.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 38.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 39.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 40.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 41.0,
+        "y": 0.1,
+        "z": 0.1
+      },
+      {
+        "x": 42.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 43.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 44.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 45.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 46.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 47.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 48.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 49.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 50.0,
+        "y": 0.01,
+        "z": 0.01
+      },
+      {
+        "x": 51.0,
+        "y": 0.1,
+        "z": 0.2
+      },
+      {
+        "x": 52.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 53.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 54.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 55.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 56.0,
+        "y": 0.02,
+        "z": 0.2
+      },
+      {
+        "x": 57.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 58.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 59.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 60.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 61.0,
+        "y": 0.2,
+        "z": 0.2
+      },
+      {
+        "x": 62.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 63.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 64.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 65.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 66.0,
+        "y": 0.02,
+        "z": 0.2
+      },
+      {
+        "x": 67.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 68.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 69.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 70.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 71.0,
+        "y": 0.2,
+        "z": 0.2
+      },
+      {
+        "x": 72.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 73.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 74.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 75.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 76.0,
+        "y": 0.02,
+        "z": 0.2
+      },
+      {
+        "x": 77.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 78.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 79.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 80.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 81.0,
+        "y": 0.1,
+        "z": 0.2
+      },
+      {
+        "x": 82.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 83.0,
+        "y": 0.02,
+        "z": 0.04
+      },
+      {
+        "x": 84.0,
+        "y": 0.02,
+        "z": 0.03
+      },
+      {
+        "x": 85.0,
+        "y": 0.02,
+        "z": 0.03
+      },
+      {
+        "x": 86.0,
+        "y": 0.02,
+        "z": 0.2
+      },
+      {
+        "x": 87.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 88.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 89.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 90.0,
+        "y": 0.02,
+        "z": 0.02
+      },
+      {
+        "x": 91.0,
+        "y": 0.1,
+        "z": 0.1
+      },
+      {
+        "x": 92.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 93.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 94.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 95.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 96.0,
+        "y": 0.01,
+        "z": 0.1
+      },
+      {
+        "x": 97.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 98.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 99.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 100.0,
+        "y": 0.01,
+        "z": 0.02
+      },
+      {
+        "x": 101.0,
+        "y": 0.1,
+        "z": 0.03
+      },
+      {
+        "x": 102.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 103.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 104.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 105.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 106.0,
+        "y": 0.1,
+        "z": 0.03
+      },
+      {
+        "x": 107.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 108.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 109.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 110.0,
+        "y": 0.01,
+        "z": 0.03
+      },
+      {
+        "x": 111.0,
+        "y": 0.1,
+        "z": 0.04
+      },
+      {
+        "x": 112.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 113.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 114.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 115.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 116.0,
+        "y": 0.1,
+        "z": 0.04
+      },
+      {
+        "x": 117.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 118.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 119.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 120.0,
+        "y": 0.01,
+        "z": 0.04
+      },
+      {
+        "x": 121.0,
+        "y": 0.1,
+        "z": 0.05
+      },
+      {
+        "x": 122.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 123.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 124.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 125.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 126.0,
+        "y": 0.1,
+        "z": 0.05
+      },
+      {
+        "x": 127.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 128.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 129.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 130.0,
+        "y": 0.01,
+        "z": 0.05
+      },
+      {
+        "x": 131.0,
+        "y": 0.1,
+        "z": 0.06
+      },
+      {
+        "x": 132.0,
+        "y": 0.01,
+        "z": 0.06
+      },
+      {
+        "x": 133.0,
+        "y": 0.01,
+        "z": 0.06
+      },
+      {
+        "x": 134.0,
+        "y": 0.01,
+        "z": 0.06
+      },
+      {
+        "x": 135.0,
+        "y": 0.01,
+        "z": 0.06
+      },
+      {
+        "x": 136.0,
+        "y": 0.1,
+        "z": 0.07
+      },
+      {
+        "x": 137.0,
+        "y": 0.01,
+        "z": 0.07
+      },
+      {
+        "x": 138.0,
+        "y": 0.01,
+        "z": 0.07
+      },
+      {
+        "x": 139.0,
+        "y": 0.01,
+        "z": 0.07
+      },
+      {
+        "x": 140.0,
+        "y": 0.01,
+        "z": 0.07
+      },
+      {
+        "x": 141.0,
+        "y": 0.1,
+        "z": 0.08
+      },
+      {
+        "x": 142.0,
+        "y": 0.01,
+        "z": 0.08
+      },
+      {
+        "x": 143.0,
+        "y": 0.01,
+        "z": 0.08
+      },
+      {
+        "x": 144.0,
+        "y": 0.01,
+        "z": 0.08
+      },
+      {
+        "x": 145.0,
+        "y": 0.01,
+        "z": 0.08
+      },
+      {
+        "x": 146.0,
+        "y": 0.1,
+        "z": 0.09
+      },
+      {
+        "x": 147.0,
+        "y": 0.01,
+        "z": 0.09
+      },
+      {
+        "x": 148.0,
+        "y": 0.01,
+        "z": 0.09
+      },
+      {
+        "x": 149.0,
+        "y": 0.01,
+        "z": 0.09
+      },
+      {
+        "x": 150.0,
+        "y": 0.01,
+        "z": 0.09
+      },
+      {
+        "x": 151.0,
+        "y": 0.1,
+        "z": 0.1
+      }
+    ]
+  },
+  "stageDatas": {
+    "Array": [
+      {
+        "description": "Day1",
+        "waveMoney": 1000,
+        "waveTime": 30.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 387,
+              "m_PathID": 3643802132637830410
+            },
+            {
+              "m_FileID": 364,
+              "m_PathID": 2061704223859028125
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day2",
+        "waveMoney": 1000,
+        "waveTime": 30.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 404,
+              "m_PathID": 6990823198479079758
+            },
+            {
+              "m_FileID": 375,
+              "m_PathID": 4187315937713504959
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day3",
+        "waveMoney": 1000,
+        "waveTime": 30.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 404,
+              "m_PathID": 6990823198479079758
+            },
+            {
+              "m_FileID": 335,
+              "m_PathID": 22706320311821756
+            },
+            {
+              "m_FileID": 399,
+              "m_PathID": 7179586848593568423
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day4",
+        "waveMoney": 1000,
+        "waveTime": 30.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 404,
+              "m_PathID": 6990823198479079758
+            },
+            {
+              "m_FileID": 417,
+              "m_PathID": 2264657762848322149
+            },
+            {
+              "m_FileID": 353,
+              "m_PathID": 7004659468912594079
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 894640479600500823
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day5",
+        "waveMoney": 1200,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 378,
+              "m_PathID": -2089762081860593558
+            },
+            {
+              "m_FileID": 393,
+              "m_PathID": -4569941071297343129
+            },
+            {
+              "m_FileID": 409,
+              "m_PathID": -5745094905908223983
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day6",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 378,
+              "m_PathID": -2089762081860593558
+            },
+            {
+              "m_FileID": 297,
+              "m_PathID": -3562110125216690405
+            },
+            {
+              "m_FileID": 420,
+              "m_PathID": 4048682931817114639
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day7",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 378,
+              "m_PathID": -2089762081860593558
+            },
+            {
+              "m_FileID": 367,
+              "m_PathID": -6468063173085878445
+            },
+            {
+              "m_FileID": 301,
+              "m_PathID": -2791564453850848676
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day8",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 378,
+              "m_PathID": -2089762081860593558
+            },
+            {
+              "m_FileID": 418,
+              "m_PathID": -538948556090159270
+            },
+            {
+              "m_FileID": 419,
+              "m_PathID": 7298032871171083788
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day9",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 378,
+              "m_PathID": -2089762081860593558
+            },
+            {
+              "m_FileID": 333,
+              "m_PathID": -1595373786816549580
+            },
+            {
+              "m_FileID": 341,
+              "m_PathID": -1883322702381536961
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day10",
+        "waveMoney": 1200,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 421,
+              "m_PathID": -5123644351928136671
+            },
+            {
+              "m_FileID": 383,
+              "m_PathID": 8191753420807560542
+            },
+            {
+              "m_FileID": 408,
+              "m_PathID": 8871008426446868920
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day11",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 421,
+              "m_PathID": -5123644351928136671
+            },
+            {
+              "m_FileID": 373,
+              "m_PathID": 2688383515944428696
+            },
+            {
+              "m_FileID": 405,
+              "m_PathID": -2398661265443140217
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day12",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 421,
+              "m_PathID": -5123644351928136671
+            },
+            {
+              "m_FileID": 317,
+              "m_PathID": -6979083322938893792
+            },
+            {
+              "m_FileID": 386,
+              "m_PathID": 3462682657996588105
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day13",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 421,
+              "m_PathID": -5123644351928136671
+            },
+            {
+              "m_FileID": 315,
+              "m_PathID": 765077071241015256
+            },
+            {
+              "m_FileID": 304,
+              "m_PathID": 2614511194036737029
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day14",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 421,
+              "m_PathID": -5123644351928136671
+            },
+            {
+              "m_FileID": 326,
+              "m_PathID": 3421953097404994248
+            },
+            {
+              "m_FileID": 310,
+              "m_PathID": -93045544602460845
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day15",
+        "waveMoney": 1200,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 371,
+              "m_PathID": -2741288354164627367
+            },
+            {
+              "m_FileID": 355,
+              "m_PathID": -3800509174887157252
+            },
+            {
+              "m_FileID": 382,
+              "m_PathID": 1073774576392623495
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day16",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 371,
+              "m_PathID": -2741288354164627367
+            },
+            {
+              "m_FileID": 321,
+              "m_PathID": -2408779216191645962
+            },
+            {
+              "m_FileID": 311,
+              "m_PathID": -4674599165298825272
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day17",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 371,
+              "m_PathID": -2741288354164627367
+            },
+            {
+              "m_FileID": 388,
+              "m_PathID": -2705709044974948701
+            },
+            {
+              "m_FileID": 406,
+              "m_PathID": 7663052824445413293
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day18",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 371,
+              "m_PathID": -2741288354164627367
+            },
+            {
+              "m_FileID": 402,
+              "m_PathID": -3186461241610488116
+            },
+            {
+              "m_FileID": 305,
+              "m_PathID": 7677087274676470475
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day19",
+        "waveMoney": 1000,
+        "waveTime": 40.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 371,
+              "m_PathID": -2741288354164627367
+            },
+            {
+              "m_FileID": 344,
+              "m_PathID": -1342041377261957383
+            },
+            {
+              "m_FileID": 319,
+              "m_PathID": -3922362097322230242
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day20",
+        "waveMoney": 1200,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 416,
+              "m_PathID": 5927615469834615358
+            },
+            {
+              "m_FileID": 312,
+              "m_PathID": -5519945791654589219
+            },
+            {
+              "m_FileID": 394,
+              "m_PathID": 5043007223133295518
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day21",
+        "waveMoney": 1000,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 416,
+              "m_PathID": 5927615469834615358
+            },
+            {
+              "m_FileID": 322,
+              "m_PathID": -4169234394995492873
+            },
+            {
+              "m_FileID": 350,
+              "m_PathID": -5510781048537573222
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day22",
+        "waveMoney": 1000,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 416,
+              "m_PathID": 5927615469834615358
+            },
+            {
+              "m_FileID": 381,
+              "m_PathID": 7371417708386769662
+            },
+            {
+              "m_FileID": 426,
+              "m_PathID": 784027258632563547
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day23",
+        "waveMoney": 1000,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 416,
+              "m_PathID": 5927615469834615358
+            },
+            {
+              "m_FileID": 320,
+              "m_PathID": -1213653792192328683
+            },
+            {
+              "m_FileID": 337,
+              "m_PathID": -6753524826544130380
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day24",
+        "waveMoney": 1000,
+        "waveTime": 45.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 416,
+              "m_PathID": 5927615469834615358
+            },
+            {
+              "m_FileID": 316,
+              "m_PathID": -4002556286657430340
+            },
+            {
+              "m_FileID": 370,
+              "m_PathID": -3268400320871879740
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day25",
+        "waveMoney": 500,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 325,
+              "m_PathID": -8329370184424907703
+            },
+            {
+              "m_FileID": 360,
+              "m_PathID": 3861871246589019154
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day26",
+        "waveMoney": 500,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 424,
+              "m_PathID": 349318770839701077
+            },
+            {
+              "m_FileID": 323,
+              "m_PathID": -8630400678568456676
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day27",
+        "waveMoney": 500,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 412,
+              "m_PathID": -4609559570413638821
+            },
+            {
+              "m_FileID": 398,
+              "m_PathID": -1718183915307940858
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 864702423534417403
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day28",
+        "waveMoney": 500,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 358,
+              "m_PathID": -995219235240135872
+            },
+            {
+              "m_FileID": 377,
+              "m_PathID": -4293973094923597331
+            }
+          ]
+        }
+      },
+      {
+        "description": "Day29",
+        "waveMoney": 500,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 331,
+              "m_PathID": -6987805096285088058
+            },
+            {
+              "m_FileID": 318,
+              "m_PathID": -1594950863656273149
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "stageDatasLoop": {
+    "Array": [
+      {
+        "description": "LoopDay31",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 300,
+              "m_PathID": 138279173341716867
+            },
+            {
+              "m_FileID": 352,
+              "m_PathID": 8987125894574249933
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 864702423534417403
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay32",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 396,
+              "m_PathID": 4582983061506145750
+            },
+            {
+              "m_FileID": 422,
+              "m_PathID": -1570336280786109674
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay33",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 347,
+              "m_PathID": 3249881643317833846
+            },
+            {
+              "m_FileID": 413,
+              "m_PathID": -8963126399880865008
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay34",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 391,
+              "m_PathID": -6286804544854201178
+            },
+            {
+              "m_FileID": 392,
+              "m_PathID": 6906940672114044735
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay35",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 401,
+              "m_PathID": -8940911710819780371
+            },
+            {
+              "m_FileID": 400,
+              "m_PathID": 7432850536104347811
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay41",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 389,
+              "m_PathID": 6159281423368808133
+            },
+            {
+              "m_FileID": 339,
+              "m_PathID": 254036114276635893
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 864702423534417403
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay42",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 327,
+              "m_PathID": 8021672676018027434
+            },
+            {
+              "m_FileID": 369,
+              "m_PathID": 460904909025579299
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay43",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 414,
+              "m_PathID": -2302586874035558547
+            },
+            {
+              "m_FileID": 411,
+              "m_PathID": -5309284022429474198
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 894640479600500823
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay44",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 361,
+              "m_PathID": 1607693998649818673
+            },
+            {
+              "m_FileID": 379,
+              "m_PathID": -1327492234106518657
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay45",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 346,
+              "m_PathID": 6534603965034528882
+            },
+            {
+              "m_FileID": 351,
+              "m_PathID": 4994416679926723265
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1905913844939908498
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay46",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 390,
+              "m_PathID": -6208857804371347976
+            },
+            {
+              "m_FileID": 343,
+              "m_PathID": 8254205121760680432
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 864702423534417403
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay47",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 359,
+              "m_PathID": 1645153769233908429
+            },
+            {
+              "m_FileID": 384,
+              "m_PathID": 1159373232969519018
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay48",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 385,
+              "m_PathID": -7113064526839406055
+            },
+            {
+              "m_FileID": 313,
+              "m_PathID": -8248653038861401020
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 5123163040106641133
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay49",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 423,
+              "m_PathID": 3997586933909159237
+            },
+            {
+              "m_FileID": 354,
+              "m_PathID": 3343326418400079029
+            }
+          ]
+        }
+      },
+      {
+        "description": "LoopDay50",
+        "waveMoney": 100,
+        "waveTime": 60.0,
+        "scriptable_EnemyWaves": {
+          "Array": [
+            {
+              "m_FileID": 329,
+              "m_PathID": -6488128363533692610
+            },
+            {
+              "m_FileID": 376,
+              "m_PathID": 2971259575694383848
+            },
+            {
+              "m_FileID": 338,
+              "m_PathID": 7086705536981503772
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 864702423534417403
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "stageDatasLast": {
+    "description": "LastDay",
+    "waveMoney": 5000,
+    "waveTime": 80.0,
+    "scriptable_EnemyWaves": {
+      "Array": [
+        {
+          "m_FileID": 303,
+          "m_PathID": 7232811716284463060
+        },
+        {
+          "m_FileID": 397,
+          "m_PathID": -602895904927750482
+        },
+        {
+          "m_FileID": 372,
+          "m_PathID": 8376803770735209598
+        }
+      ]
+    }
+  }
+}

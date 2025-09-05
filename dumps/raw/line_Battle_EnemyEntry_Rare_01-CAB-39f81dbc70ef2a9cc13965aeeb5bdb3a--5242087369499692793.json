@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_EnemyEntry_Rare_01",
+  "priority": 10,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 8239424874766776383
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 3,
+  "emotion_Eyes": 9,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I've gotta kill that one!",
+      "あいつは倒さないとね！",
+      "¡Debo matar a ese!",
+      "一定要干掉那家伙！",
+      "一定要幹掉那傢伙！",
+      "저 녀석은 꼭 쓰러뜨려야 해！"
+    ]
+  }
+}

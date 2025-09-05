@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Not sure why I have to fight with my butt sticking out...",
+      "お尻を突き出して戦うのはどうなんだろう……",
+      "No sé por qué tengo que pelear con mi trasero al aire...",
+      "翘起屁股战斗会怎样呢……",
+      "翹起屁股戰鬥會怎樣呢……",
+      "왜 자꾸 엉덩이를 내놓고 싸워야 하는지..."
+    ]
+  }
+}

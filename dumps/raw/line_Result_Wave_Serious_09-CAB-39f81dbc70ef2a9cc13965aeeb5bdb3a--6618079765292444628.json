@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Serious_09",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 5,
+  "emotionTarget": 3,
+  "emotion_Eyes": 5,
+  "emotion_Mouth": 5,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I need to make sure I have a strategy for tomorrow, too!",
+      "明日の作戦もしっかり立てないと！",
+      "Tengo que asegurarme de tener una estrategia para mañana.",
+      "明天的作战也要好好计划哦！",
+      "明天的作戰也要好好計劃喔！",
+      "내일 전략도 잘 세워 놔야지！"
+    ]
+  }
+}

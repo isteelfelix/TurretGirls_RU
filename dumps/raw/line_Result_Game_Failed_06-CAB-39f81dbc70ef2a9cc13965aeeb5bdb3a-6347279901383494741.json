@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Failed_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": -3168453735498265767
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 2,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 13,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "I couldn't...protect them...",
+      "守ることすら……できないなんて……",
+      "No pude... protegerlos...",
+      "连守住这事……都做不到什么的……",
+      "連守住這事……都做不到什麼的……",
+      "지키지... 못했어..."
+    ]
+  }
+}

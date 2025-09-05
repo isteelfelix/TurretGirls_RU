@@ -1,0 +1,411 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3075889661304172018
+  },
+  "m_Name": "FontBase",
+  "hashCode": 952181414,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": -2227163511894352425
+  },
+  "materialHashCode": -1786684474,
+  "m_Version": "1.1.0",
+  "m_SourceFontFileGUID": "",
+  "m_SourceFontFile": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AtlasPopulationMode": 0,
+  "m_FaceInfo": {
+    "m_FaceIndex": 0,
+    "m_FamilyName": "Zen Kaku Gothic Antique",
+    "m_StyleName": "Medium",
+    "m_PointSize": 64,
+    "m_Scale": 1.0,
+    "m_UnitsPerEM": 1000,
+    "m_LineHeight": 92.672,
+    "m_AscentLine": 74.24,
+    "m_CapLine": 45.0,
+    "m_MeanLine": 31.0,
+    "m_Baseline": 0.0,
+    "m_DescentLine": -18.432,
+    "m_SuperscriptOffset": 74.24,
+    "m_SuperscriptSize": 0.5,
+    "m_SubscriptOffset": -18.432,
+    "m_SubscriptSize": 0.5,
+    "m_UnderlineOffset": -9.152,
+    "m_UnderlineThickness": 1.28,
+    "m_StrikethroughOffset": 12.4,
+    "m_StrikethroughThickness": 1.28,
+    "m_TabWidth": 18.0
+  },
+  "m_GlyphTable": {
+    "Array": [
+      {
+        "m_Index": 7117,
+        "m_Metrics": {
+          "m_Width": 64.0,
+          "m_Height": 2.75,
+          "m_HorizontalBearingX": 0.0,
+          "m_HorizontalBearingY": -4.03125,
+          "m_HorizontalAdvance": 64.0
+        },
+        "m_GlyphRect": {
+          "m_X": 9,
+          "m_Y": 30,
+          "m_Width": 64,
+          "m_Height": 3
+        },
+        "m_Scale": 1.0,
+        "m_AtlasIndex": 0,
+        "m_ClassDefinitionType": 0
+      },
+      {
+        "m_Index": 7173,
+        "m_Metrics": {
+          "m_Width": 34.25,
+          "m_Height": 3.078125,
+          "m_HorizontalBearingX": 4.15625,
+          "m_HorizontalBearingY": -2.8125,
+          "m_HorizontalAdvance": 42.5625
+        },
+        "m_GlyphRect": {
+          "m_X": 9,
+          "m_Y": 9,
+          "m_Width": 35,
+          "m_Height": 4
+        },
+        "m_Scale": 1.0,
+        "m_AtlasIndex": 0,
+        "m_ClassDefinitionType": 0
+      },
+      {
+        "m_Index": 7205,
+        "m_Metrics": {
+          "m_Width": 0.0,
+          "m_Height": 0.0,
+          "m_HorizontalBearingX": 0.0,
+          "m_HorizontalBearingY": 0.0,
+          "m_HorizontalAdvance": 64.0
+        },
+        "m_GlyphRect": {
+          "m_X": 0,
+          "m_Y": 0,
+          "m_Width": 0,
+          "m_Height": 0
+        },
+        "m_Scale": 1.0,
+        "m_AtlasIndex": 0,
+        "m_ClassDefinitionType": 0
+      },
+      {
+        "m_Index": 7206,
+        "m_Metrics": {
+          "m_Width": 0.0,
+          "m_Height": 0.0,
+          "m_HorizontalBearingX": 0.0,
+          "m_HorizontalBearingY": 0.0,
+          "m_HorizontalAdvance": 17.921875
+        },
+        "m_GlyphRect": {
+          "m_X": 0,
+          "m_Y": 0,
+          "m_Width": 0,
+          "m_Height": 0
+        },
+        "m_Scale": 1.0,
+        "m_AtlasIndex": 0,
+        "m_ClassDefinitionType": 0
+      }
+    ]
+  },
+  "m_CharacterTable": {
+    "Array": [
+      {
+        "m_ElementType": 1,
+        "m_Unicode": 32,
+        "m_GlyphIndex": 7206,
+        "m_Scale": 1.0
+      },
+      {
+        "m_ElementType": 1,
+        "m_Unicode": 95,
+        "m_GlyphIndex": 7173,
+        "m_Scale": 1.0
+      },
+      {
+        "m_ElementType": 1,
+        "m_Unicode": 12288,
+        "m_GlyphIndex": 7205,
+        "m_Scale": 1.0
+      },
+      {
+        "m_ElementType": 1,
+        "m_Unicode": 65343,
+        "m_GlyphIndex": 7117,
+        "m_Scale": 1.0
+      }
+    ]
+  },
+  "m_AtlasTextures": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -6362952112237486633
+      }
+    ]
+  },
+  "m_AtlasTextureIndex": 0,
+  "m_IsMultiAtlasTexturesEnabled": 1,
+  "m_ClearDynamicDataOnBuild": 0,
+  "m_UsedGlyphRects": {
+    "Array": [
+      {
+        "m_X": 0,
+        "m_Y": 0,
+        "m_Width": 52,
+        "m_Height": 21
+      },
+      {
+        "m_X": 0,
+        "m_Y": 21,
+        "m_Width": 81,
+        "m_Height": 20
+      }
+    ]
+  },
+  "m_FreeGlyphRects": {
+    "Array": [
+      {
+        "m_X": 0,
+        "m_Y": 41,
+        "m_Width": 127,
+        "m_Height": 22
+      },
+      {
+        "m_X": 52,
+        "m_Y": 0,
+        "m_Width": 75,
+        "m_Height": 21
+      },
+      {
+        "m_X": 81,
+        "m_Y": 0,
+        "m_Width": 46,
+        "m_Height": 63
+      }
+    ]
+  },
+  "m_fontInfo": {
+    "Name": "",
+    "PointSize": 0.0,
+    "Scale": 0.0,
+    "CharacterCount": 0,
+    "LineHeight": 0.0,
+    "Baseline": 0.0,
+    "Ascender": 0.0,
+    "CapHeight": 0.0,
+    "Descender": 0.0,
+    "CenterLine": 0.0,
+    "SuperscriptOffset": 0.0,
+    "SubscriptOffset": 0.0,
+    "SubSize": 0.0,
+    "Underline": 0.0,
+    "UnderlineThickness": 0.0,
+    "strikethrough": 0.0,
+    "strikethroughThickness": 0.0,
+    "TabWidth": 0.0,
+    "Padding": 0.0,
+    "AtlasWidth": 0.0,
+    "AtlasHeight": 0.0
+  },
+  "atlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AtlasWidth": 128,
+  "m_AtlasHeight": 64,
+  "m_AtlasPadding": 8,
+  "m_AtlasRenderMode": 4165,
+  "m_glyphInfoList": {
+    "Array": []
+  },
+  "m_KerningTable": {
+    "kerningPairs": {
+      "Array": []
+    }
+  },
+  "m_FontFeatureTable": {
+    "m_GlyphPairAdjustmentRecords": {
+      "Array": []
+    }
+  },
+  "fallbackFontAssets": {
+    "Array": []
+  },
+  "m_FallbackFontAssetTable": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -2222836638795039888
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -244196036941486794
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5727134704050866721
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6968545532259113788
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1470076540476280511
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3618524630910741109
+      }
+    ]
+  },
+  "m_CreationSettings": {
+    "sourceFontFileName": "",
+    "sourceFontFileGUID": "228aa0c21ee3b5c4b91329503c461e44",
+    "pointSizeSamplingMode": 1,
+    "pointSize": 64,
+    "padding": 8,
+    "packingMode": 0,
+    "atlasWidth": 128,
+    "atlasHeight": 64,
+    "characterSetSelectionMode": 6,
+    "characterSequence": "20,5F,3000,FF3F",
+    "referencedFontAssetGUID": "c715d2dd5b5c48340a810289930b985c",
+    "referencedTextAssetGUID": "54bc17cffcf0e6846ae62407d21f6aa5",
+    "fontStyle": 0,
+    "fontStyleModifier": 0.0,
+    "renderMode": 4165,
+    "includeFontFeatures": 1
+  },
+  "m_FontWeightTable": {
+    "Array": [
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "fontWeights": {
+    "Array": []
+  },
+  "normalStyle": 0.0,
+  "normalSpacingOffset": 0.0,
+  "boldStyle": 0.7,
+  "boldSpacing": 0.0,
+  "italicStyle": 15,
+  "tabSize": 10
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Surprise_14",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 6,
+  "emotionTarget": 3,
+  "emotion_Eyes": 6,
+  "emotion_Mouth": 6,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Isn't it a bit much to ban singing without hearing it?",
+      "聴きもしないで歌うの禁止とか酷くない？",
+      "¿No es desmasiado que prohiban cantar?",
+      "听都没听过就禁止唱歌，这不是太过分了吗？",
+      "聽都沒聽過就禁止唱歌，這不是太過分了嗎？",
+      "들어 보지도 않고 노래 금지라니 너무하지 않아？"
+    ]
+  }
+}

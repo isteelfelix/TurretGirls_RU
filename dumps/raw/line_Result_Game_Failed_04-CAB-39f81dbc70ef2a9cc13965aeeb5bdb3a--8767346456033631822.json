@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Failed_04",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 7849678663712084238
+  },
+  "generalVoiceType": 8,
+  "emotionTarget": 2,
+  "emotion_Eyes": 13,
+  "emotion_Mouth": 13,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "But I can't...lose...",
+      "負けるわけには……いかなかったのに……",
+      "No puedo perder...",
+      "我明明绝对不会……输掉的……",
+      "我明明絕對不會……輸掉的……",
+      "그래도... 질 수는 없어..."
+    ]
+  }
+}

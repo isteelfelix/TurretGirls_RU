@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Battle_PlayerBreak_42",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 2,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 1347884380614562695
+  },
+  "generalVoiceType": 0,
+  "emotionTarget": 4,
+  "emotion_Eyes": 8,
+  "emotion_Mouth": 8,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Any more and I'll...!",
+      "これ以上は……！",
+      "¡Un poco más y yo-!",
+      "再被这样做的话……！",
+      "再被這樣做的話……！",
+      "더 이상은...！"
+    ]
+  }
+}

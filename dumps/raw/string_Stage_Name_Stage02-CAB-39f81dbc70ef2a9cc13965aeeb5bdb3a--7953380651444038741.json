@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4779552609076990591
+  },
+  "m_Name": "string_Stage_Name_Stage02",
+  "memo": "ステージ名（Stage2",
+  "strings": {
+    "Array": [
+      "Stage 2",
+      "Stage 2",
+      "Nivel 2",
+      "关卡 2",
+      "關卡 2",
+      "스테이지 2"
+    ]
+  }
+}

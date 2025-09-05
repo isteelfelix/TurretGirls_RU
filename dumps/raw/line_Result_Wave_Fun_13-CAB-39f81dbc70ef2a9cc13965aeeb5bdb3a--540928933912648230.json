@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Fun_13",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 4,
+  "emotionTarget": 3,
+  "emotion_Eyes": 4,
+  "emotion_Mouth": 4,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Turret's seat fits my butt just right.",
+      "タレットちゃんのシートはお尻にシンデレラフィットだよ♪",
+      "El asiento de la torreta se adapta muy bien a mi trasero.",
+      "炮塔的座椅对我的屁股来说刚刚好哟♪",
+      "炮塔的座椅對我的屁股來說剛剛好唷♪",
+      "포탑 좌석이 내 엉덩이에 딱 맞아."
+    ]
+  }
+}

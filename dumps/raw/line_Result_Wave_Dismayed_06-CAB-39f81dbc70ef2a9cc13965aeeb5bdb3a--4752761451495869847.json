@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Dismayed_06",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 7,
+  "emotionTarget": 3,
+  "emotion_Eyes": 7,
+  "emotion_Mouth": 7,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "I wish my hair would spring back to shape when it's wet...",
+      "ジメジメしてるとハネっ毛がなあ……",
+      "Ojalá mi cabello se viera lindo cuando está mojado...",
+      "潮湿的话卷发会变怪……",
+      "潮濕的話捲髮會變怪……",
+      "습하면 머리카락이 또 뻗친단 말이지..."
+    ]
+  }
+}

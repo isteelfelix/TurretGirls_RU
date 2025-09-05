@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Serious_02",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 5,
+  "emotionTarget": 3,
+  "emotion_Eyes": 5,
+  "emotion_Mouth": 5,
+  "faceEffect_Blush": 0,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "Talking to someone besides the AI would be nice...",
+      "たまにはAI以外ともおしゃべりしたいかな",
+      "Sería genial hablar con alguien más que no sea la IA...",
+      "偶尔也想和AI以外的人聊天呢",
+      "偶爾也想和AI以外的人聊天呢",
+      "AI 말고 사람이랑 얘기할 수 있으면 좋을 텐데..."
+    ]
+  }
+}

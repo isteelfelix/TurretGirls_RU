@@ -1,0 +1,21 @@
+﻿# Python / tools
+__pycache__/
+.venv/
+.env
+
+# Windows/IDE
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.user
+*.suo
+
+# UABEA временные
+*.backup
+*.bak
+*.tmp
+
+# Локальная сборка
+workshop/**/preview.png
+workshop/**/build/

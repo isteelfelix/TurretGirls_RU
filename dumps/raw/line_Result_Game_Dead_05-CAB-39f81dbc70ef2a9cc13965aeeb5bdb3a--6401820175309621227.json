@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Game_Dead_05",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 1272384503603400782
+  },
+  "generalVoiceType": 3,
+  "emotionTarget": 2,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 6,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 1,
+  "faceEffect_Tear": 1,
+  "faceEffect_Highlight": 0,
+  "text": {
+    "Array": [
+      "Please... Let me rest...",
+      "少し……休ませて……",
+      "Por favor... déjenme descansar...",
+      "稍微……让我休息一下……",
+      "稍微……讓我休息一下……",
+      "제발... 조금만 쉬게 해줘..."
+    ]
+  }
+}

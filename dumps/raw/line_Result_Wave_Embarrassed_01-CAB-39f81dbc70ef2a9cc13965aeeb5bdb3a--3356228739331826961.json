@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7717159220808316232
+  },
+  "m_Name": "line_Result_Wave_Embarrassed_01",
+  "priority": 1,
+  "booking": 0,
+  "probability": 100,
+  "textDisplay": 1,
+  "voice": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "generalVoiceType": 11,
+  "emotionTarget": 3,
+  "emotion_Eyes": 11,
+  "emotion_Mouth": 11,
+  "faceEffect_Blush": 1,
+  "faceEffect_Dark": 0,
+  "faceEffect_Tear": 0,
+  "faceEffect_Highlight": 1,
+  "text": {
+    "Array": [
+      "It's embarassing when my clothes fall apart...",
+      "ボロボロの服じゃ恥ずかしいよね……",
+      "Es muy vergonzoso cuando mi ropa se deshace...",
+      "穿着破烂的衣服真的很羞耻呢……",
+      "穿著破爛的衣服真的很羞恥呢……",
+      "옷이 너덜너덜해지면 민망하다니까..."
+    ]
+  }
+}
