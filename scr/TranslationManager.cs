@@ -1,48 +1,73 @@
-#!/usr/bin/env python3
-import json, re
-from pathlib import Path
+using System;
+using System.Collections.Generic;
+using System.IO;
+using Newtonsoft.Json;
+using MelonLoader;
 
-RAW = Path(__file__).resolve().parents[1] / "dumps" / "raw"
-OUT_DIR = Path(__file__).resolve().parents[1] / "translations" / "tmp"
-OUT_DIR.mkdir(parents=True, exist_ok=True)
-TEMPLATE = OUT_DIR / "ru_template.json"
+namespace TurretGirlsRus
+{
+    public static class TranslationManager
+    {
+        private static Dictionary<string, string> _translations = new();
+        private static HashSet<string> _untranslated = new();
 
-def normalize(s: str) -> str:
-    # чистим пробелы, многоточия и неразрывные
-    s = re.sub(r"\s{2,}", " ", s.replace("\u00A0", " ")).strip()
-    s = re.sub(r"\.{3,}", "...", s)
-    return s
+        private static readonly string ModDir =
+            Path.Combine(AppContext.BaseDirectory, "Mods", "TurretGirls_RU");
 
-def collect_english_strings(obj):
-    """
-    Ищем массив text.Array и берём только [0] (английский).
-    """
-    if isinstance(obj, dict):
-        for k, v in obj.items():
-            if k == "Array" and isinstance(v, list) and v:
-                if isinstance(v[0], str):
-                    yield v[0]
-            else:
-                yield from collect_english_strings(v)
-    elif isinstance(obj, list):
-        for i in obj:
-            yield from collect_english_strings(i)
+        private static readonly string TranslationFile =
+            Path.Combine(ModDir, "ru.json");
 
-def main():
-    bank = {}
-    for p in sorted(RAW.glob("*.json")):
-        try:
-            data = json.loads(p.read_text(encoding="utf-8"))
-        except Exception as e:
-            print(f"[WARN] {p.name}: {e}")
-            continue
-        for s in collect_english_strings(data):
-            key = normalize(s)
-            if key and key not in bank:
-                bank[key] = ""
-    ordered = dict(sorted(bank.items(), key=lambda kv: (len(kv[0]), kv[0])))
-    TEMPLATE.write_text(json.dumps(ordered, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[OK] Template written: {TEMPLATE} ({len(ordered)} keys)")
+        private static readonly string UntranslatedFile =
+            Path.Combine(ModDir, "untranslated.json");
 
-if __name__ == "__main__":
-    main()
+        public static void LoadTranslations()
+        {
+            try
+            {
+                if (File.Exists(TranslationFile))
+                {
+                    string json = File.ReadAllText(TranslationFile);
+                    _translations = JsonConvert.DeserializeObject<Dictionary<string, string>>(json)
+                                    ?? new Dictionary<string, string>();
+                    MelonLogger.Msg($"Загружено переводов: {_translations.Count}");
+                }
+                else
+                {
+                    MelonLogger.Warning($"Файл перевода не найден: {TranslationFile}");
+                }
+            }
+            catch (Exception ex)
+            {
+                MelonLogger.Error($"Ошибка загрузки перевода: {ex}");
+            }
+        }
+
+        public static string Translate(string original)
+        {
+            if (string.IsNullOrEmpty(original))
+                return original;
+
+            var key = original.Replace("\r", "").Replace("\n", "").Trim();
+
+            if (_translations.TryGetValue(key, out var translated))
+                return translated;
+
+            MelonLogger.Msg($"[Missing] {original}");
+
+            if (_untranslated.Add(original))
+            {
+                try
+                {
+                    File.WriteAllText(UntranslatedFile,
+                        JsonConvert.SerializeObject(_untranslated, Formatting.Indented));
+                }
+                catch (Exception ex)
+                {
+                    MelonLogger.Warning($"Не удалось записать untranslated.json: {ex}");
+                }
+            }
+
+            return original;
+        }
+    }
+}
