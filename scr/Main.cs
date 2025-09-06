@@ -1,4 +1,6 @@
+using System;
 using System.Reflection;
+using System.Runtime.CompilerServices;
 using MelonLoader;
 
 [assembly: MelonInfo(typeof(TurretGirlsRus.TurretGirlsRusMod), "TurretGirls RU", "1.0.0", "Chieftain51")]
@@ -11,6 +13,17 @@ namespace TurretGirlsRus
         public override void OnInitializeMelon()
         {
             MelonLogger.Msg("Turret Girls Rus v1.0.0 by Chieftain51");
+
+            // Явно инициализируем сборщик непереведённых строк
+            // typeof(...) alone не вызывает статический конструктор, поэтому используем RuntimeHelpers
+            try
+            {
+                RuntimeHelpers.RunClassConstructor(typeof(UntranslatedCollector).TypeHandle);
+            }
+            catch (Exception ex)
+            {
+                MelonLogger.Warning($"Failed to force-run UntranslatedCollector ctor: {ex}");
+            }
 
             TranslationManager.LoadTranslations();
             TextHooks.Hook();

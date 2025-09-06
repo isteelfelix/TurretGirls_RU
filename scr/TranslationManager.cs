@@ -8,8 +8,11 @@ namespace TurretGirlsRus
 {
     public static class TranslationManager
     {
-        private static Dictionary<string, string> _translations = new();
-        private static HashSet<string> _untranslated = new();
+    private static Dictionary<string, string> _translations = new();
+    // Optional external collector can subscribe to this to receive missing keys.
+    // Example collector (UntranslatedCollector.cs) subscribes to capture missing strings
+    // during development. In client builds you can comment out or remove that file.
+    public static Action<string, string> MissingCallback;
 
         private static readonly string ModDir =
             Path.Combine(AppContext.BaseDirectory, "Mods", "TurretGirls_RU");
@@ -48,24 +51,18 @@ namespace TurretGirlsRus
                 return original;
 
             var key = original.Replace("\r", "").Replace("\n", "").Trim();
-
             if (_translations.TryGetValue(key, out var translated))
                 return translated;
 
-            MelonLogger.Msg($"[Missing] {original}");
-
-            if (_untranslated.Add(original))
+            // Notify optional external collector about missing key. Collector is
+            // implemented separately (e.g. UntranslatedCollector.cs) and can be
+            // enabled/disabled in development builds. By default we do not write
+            // files from in-game code to keep client builds clean.
+            try
             {
-                try
-                {
-                    File.WriteAllText(UntranslatedFile,
-                        JsonConvert.SerializeObject(_untranslated, Formatting.Indented));
-                }
-                catch (Exception ex)
-                {
-                    MelonLogger.Warning($"Не удалось записать untranslated.json: {ex}");
-                }
+                MissingCallback?.Invoke(key, original);
             }
+            catch { }
 
             return original;
         }
